@@ -11,3 +11,7 @@ labels:
   - name: first-timers-only
     # include the old name to rename an existing label
     oldname: Help Wanted
+    
+  - name: pepe
+    # include the old name to rename an existing label
+    oldname: Help Wanted
